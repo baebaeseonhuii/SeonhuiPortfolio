@@ -1708,8 +1708,8 @@ input, select, textarea {
 
 	.container {
 		margin: 0 auto;
-		max-width: calc(100% - 2.5em);
-		width: 45em;
+		max-width: calc(100% - 4.5em);
+		width: 50em;
 	}
 
 		.container.xsmall {
